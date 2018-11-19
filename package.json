@@ -1,0 +1,19 @@
+{
+  "name": "github-demo",
+  "version": "1.0.0",
+  "description": "just a demo to test git-hook.(smile)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kricsleo/git-hook.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kricsleo/git-hook/issues"
+  },
+  "homepage": "https://github.com/kricsleo/git-hook#readme"
+}
